@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
+  <title id="title">Workspace as Context</title>
+  <desc id="desc">Plain-text context architecture for humans and AI agents</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B101C"/><stop offset="1" stop-color="#111C2D"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#14B8A6"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#14B8A6" stop-opacity=".2"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#6D89AE" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="758" height="318" rx="22" fill="url(#bg)" stroke="#2D3D56" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="318" rx="22" fill="url(#grid)"/>
+  <circle cx="610" cy="130" r="190" fill="url(#glow)"/>
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#bar)"/>
+  <g transform="translate(36 32)">
+    <rect width="144.20000000000002" height="30" rx="15" fill="#172235" stroke="#14B8A6" stroke-opacity=".75"/>
+    <circle cx="16" cy="15" r="4" fill="#14B8A6"/>
+    <text x="28" y="20" fill="#AFC1D8" font-family="Inter,Segoe UI,sans-serif" font-size="11" font-weight="800" letter-spacing="1.25">DEVELOPER TOOL</text>
+  </g>
+  <text x="36" y="116" fill="#F7FAFC" font-family="Inter,Segoe UI,sans-serif" font-size="31" font-weight="800">Workspace as Context</text>
+  <text x="36" y="158" fill="#AFC0D4" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="500">Plain-text context architecture</text>
+  <text x="36" y="184" fill="#7F94AF" font-family="Inter,Segoe UI,sans-serif" font-size="17">for humans and AI agents</text>
+  <rect x="36" y="251" width="70" height="30" rx="15" fill="#151F31" stroke="#14B8A6" stroke-opacity=".55"/><text x="71" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Python</text><rect x="116" y="251" width="86" height="30" rx="15" fill="#151F31" stroke="#14B8A6" stroke-opacity=".55"/><text x="159" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Markdown</text><rect x="212" y="251" width="86" height="30" rx="15" fill="#151F31" stroke="#14B8A6" stroke-opacity=".55"/><text x="255" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Obsidian</text>
+  
+    <g transform="translate(410 55) scale(.84)">
+      <g transform="translate(0 32)">
+        <path d="M0 18H76L88 30V102H0Z" fill="#121E2E" stroke="#8B5CF6" stroke-width="2"/>
+        <path d="M0 18H40L50 4H88V30H0Z" fill="#172A42" stroke="#8B5CF6" stroke-width="2"/>
+        <text x="44" y="67" text-anchor="middle" fill="#CAD9EA" font-family="Fira Code,Consolas,monospace" font-size="11">EVIDENCE</text>
+      </g>
+      <path d="M98 82H139" stroke="#405674" stroke-width="2"/><path d="M130 76L140 82L130 88" fill="none" stroke="#405674" stroke-width="2"/>
+      <g transform="translate(150 20)">
+        <circle cx="58" cy="66" r="24" fill="#142231" stroke="#14B8A6" stroke-width="2"/>
+        <path d="M58 66L12 20" stroke="#3D556F" stroke-width="2"/><circle cx="12" cy="20" r="12" fill="#131C2B" stroke="#8B5CF6" stroke-width="2"/><path d="M58 66L101 18" stroke="#3D556F" stroke-width="2"/><circle cx="101" cy="18" r="12" fill="#131C2B" stroke="#14B8A6" stroke-width="2"/><path d="M58 66L112 101" stroke="#3D556F" stroke-width="2"/><circle cx="112" cy="101" r="12" fill="#131C2B" stroke="#8B5CF6" stroke-width="2"/><path d="M58 66L10 108" stroke="#3D556F" stroke-width="2"/><circle cx="10" cy="108" r="12" fill="#131C2B" stroke="#14B8A6" stroke-width="2"/>
+        <text x="58" y="70" text-anchor="middle" fill="#D4EEE9" font-family="Fira Code,Consolas,monospace" font-size="11">WIKI</text>
+      </g>
+      <path d="M273 86H309" stroke="#405674" stroke-width="2"/><path d="M300 80L310 86L300 92" fill="none" stroke="#405674" stroke-width="2"/>
+      <g transform="translate(319 45)">
+        <rect x="0" y="0" width="64" height="42" rx="9" fill="#171A31" stroke="#8B5CF6" stroke-width="2"/>
+        <rect x="14" y="58" width="64" height="42" rx="9" fill="#121F2C" stroke="#14B8A6" stroke-width="2"/>
+        <text x="32" y="26" text-anchor="middle" fill="#D7D8F6" font-family="Fira Code,Consolas,monospace" font-size="9">PROJECT</text>
+        <text x="46" y="84" text-anchor="middle" fill="#D1EEE9" font-family="Fira Code,Consolas,monospace" font-size="9">PROJECT</text>
+      </g>
+    </g>
+</svg>

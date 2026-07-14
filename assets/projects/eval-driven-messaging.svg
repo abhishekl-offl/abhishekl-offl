@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
+  <title id="title">Eval-Driven Messaging</title>
+  <desc id="desc">Offline prompt evaluation with graders and holdout cases</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B101C"/><stop offset="1" stop-color="#111C2D"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#C026D3"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#C026D3" stop-opacity=".2"/><stop offset="1" stop-color="#C026D3" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#6D89AE" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="758" height="318" rx="22" fill="url(#bg)" stroke="#2D3D56" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="318" rx="22" fill="url(#grid)"/>
+  <circle cx="610" cy="130" r="190" fill="url(#glow)"/>
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#bar)"/>
+  <g transform="translate(36 32)">
+    <rect width="169.10000000000002" height="30" rx="15" fill="#172235" stroke="#C026D3" stroke-opacity=".75"/>
+    <circle cx="16" cy="15" r="4" fill="#C026D3"/>
+    <text x="28" y="20" fill="#AFC1D8" font-family="Inter,Segoe UI,sans-serif" font-size="11" font-weight="800" letter-spacing="1.25">EVALUATION SYSTEM</text>
+  </g>
+  <text x="36" y="116" fill="#F7FAFC" font-family="Inter,Segoe UI,sans-serif" font-size="31" font-weight="800">Eval-Driven Messaging</text>
+  <text x="36" y="158" fill="#AFC0D4" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="500">Offline prompt evaluation with</text>
+  <text x="36" y="184" fill="#7F94AF" font-family="Inter,Segoe UI,sans-serif" font-size="17">graders and holdout cases</text>
+  <rect x="36" y="251" width="70" height="30" rx="15" fill="#151F31" stroke="#C026D3" stroke-opacity=".55"/><text x="71" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Python</text><rect x="116" y="251" width="94" height="30" rx="15" fill="#151F31" stroke="#C026D3" stroke-opacity=".55"/><text x="163" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">LLM evals</text><rect x="220" y="251" width="94" height="30" rx="15" fill="#151F31" stroke="#C026D3" stroke-opacity=".55"/><text x="267" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Anthropic</text>
+  
+    <g transform="translate(405 70) scale(.89)">
+      <rect x="0" y="0" width="104" height="38" rx="10" fill="#151A2B" stroke="#3A4561" stroke-width="2"/><text x="52" y="24" text-anchor="middle" fill="#D8E0EF" font-family="Fira Code,Consolas,monospace" font-size="11">PROMPT 1</text><path d="M104 19H139" stroke="#415473" stroke-width="2"/><rect x="0" y="53" width="104" height="38" rx="10" fill="#151A2B" stroke="#C026D3" stroke-width="2"/><text x="52" y="77" text-anchor="middle" fill="#D8E0EF" font-family="Fira Code,Consolas,monospace" font-size="11">PROMPT 2</text><path d="M104 72H139" stroke="#415473" stroke-width="2"/><rect x="0" y="106" width="104" height="38" rx="10" fill="#151A2B" stroke="#3A4561" stroke-width="2"/><text x="52" y="130" text-anchor="middle" fill="#D8E0EF" font-family="Fira Code,Consolas,monospace" font-size="11">PROMPT 3</text><path d="M104 125H139" stroke="#415473" stroke-width="2"/>
+      <rect x="145" y="36" width="92" height="92" rx="18" fill="#22162C" stroke="#C026D3" stroke-width="2"/>
+      <text x="191" y="75" text-anchor="middle" fill="#F1D8F7" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="800">GRADERS</text>
+      <text x="191" y="99" text-anchor="middle" fill="#A979B3" font-family="Fira Code,Consolas,monospace" font-size="10">holdout set</text>
+      <path d="M237 82H274" stroke="#4D5E7A" stroke-width="2"/><path d="M266 76L275 82L266 88" fill="none" stroke="#F97316" stroke-width="2"/>
+      <rect x="282" y="25" width="87" height="114" rx="16" fill="#151C2C" stroke="#F97316" stroke-width="2"/>
+      <rect x="299" y="46" width="50" height="8" rx="4" fill="#F97316" opacity="1"/><rect x="299" y="66" width="38" height="8" rx="4" fill="#F97316" opacity="0.88"/><rect x="299" y="86" width="55" height="8" rx="4" fill="#C026D3" opacity="0.76"/><rect x="299" y="106" width="44" height="8" rx="4" fill="#F97316" opacity="0.64"/>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
+  <title id="title">Signal Desk</title>
+  <desc id="desc">Explainable relevance ranking for technology news</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B101C"/><stop offset="1" stop-color="#111C2D"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#58A6FF" stop-opacity=".2"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#6D89AE" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="758" height="318" rx="22" fill="url(#bg)" stroke="#2D3D56" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="318" rx="22" fill="url(#grid)"/>
+  <circle cx="610" cy="130" r="190" fill="url(#glow)"/>
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#bar)"/>
+  <g transform="translate(36 32)">
+    <rect width="111" height="30" rx="15" fill="#172235" stroke="#58A6FF" stroke-opacity=".75"/>
+    <circle cx="16" cy="15" r="4" fill="#58A6FF"/>
+    <text x="28" y="20" fill="#AFC1D8" font-family="Inter,Segoe UI,sans-serif" font-size="11" font-weight="800" letter-spacing="1.25">AI PRODUCT</text>
+  </g>
+  <text x="36" y="116" fill="#F7FAFC" font-family="Inter,Segoe UI,sans-serif" font-size="38" font-weight="800">Signal Desk</text>
+  <text x="36" y="158" fill="#AFC0D4" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="500">Explainable relevance ranking</text>
+  <text x="36" y="184" fill="#7F94AF" font-family="Inter,Segoe UI,sans-serif" font-size="17">for technology news</text>
+  <rect x="36" y="251" width="78" height="30" rx="15" fill="#151F31" stroke="#58A6FF" stroke-opacity=".55"/><text x="75" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Next.js</text><rect x="124" y="251" width="102" height="30" rx="15" fill="#151F31" stroke="#58A6FF" stroke-opacity=".55"/><text x="175" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">TypeScript</text><rect x="236" y="251" width="78" height="30" rx="15" fill="#151F31" stroke="#58A6FF" stroke-opacity=".55"/><text x="275" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Drizzle</text>
+  
+    <g transform="translate(420 58) scale(.95)">
+      <circle cx="26" cy="34" r="21" fill="#131F32" stroke="#58A6FF" stroke-width="2"/><text x="26" y="39" text-anchor="middle" fill="#D8E4F3" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="800">HN</text><path d="M48 34H92" stroke="#3B506C" stroke-width="2"/><circle cx="26" cy="97" r="21" fill="#131F32" stroke="#58A6FF" stroke-width="2"/><text x="26" y="102" text-anchor="middle" fill="#D8E4F3" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="800">TM</text><path d="M48 97H92" stroke="#3B506C" stroke-width="2"/><circle cx="26" cy="160" r="21" fill="#131F32" stroke="#F97316" stroke-width="2"/><text x="26" y="165" text-anchor="middle" fill="#D8E4F3" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="800">X</text><path d="M48 160H92" stroke="#3B506C" stroke-width="2"/>
+      <g transform="translate(100 5)">
+        <rect x="0" y="0" width="215" height="46" rx="12" fill="#101A2B" stroke="#58A6FF" stroke-width="2"/><rect x="14" y="13" width="130" height="7" rx="3.5" fill="#58A6FF"/><rect x="14" y="28" width="78" height="5" rx="2.5" fill="#34465E"/><text x="185" y="29" text-anchor="middle" fill="#F97316" font-family="Fira Code,Consolas,monospace" font-size="12" font-weight="700">92</text><rect x="0" y="58" width="215" height="46" rx="12" fill="#101A2B" stroke="#293A53" stroke-width="2"/><rect x="14" y="71" width="108" height="7" rx="3.5" fill="#536781"/><rect x="14" y="86" width="98" height="5" rx="2.5" fill="#34465E"/><text x="185" y="87" text-anchor="middle" fill="#7590B1" font-family="Fira Code,Consolas,monospace" font-size="12" font-weight="700">78</text><rect x="0" y="116" width="215" height="46" rx="12" fill="#101A2B" stroke="#293A53" stroke-width="2"/><rect x="14" y="129" width="86" height="7" rx="3.5" fill="#536781"/><rect x="14" y="144" width="118" height="5" rx="2.5" fill="#34465E"/><text x="185" y="145" text-anchor="middle" fill="#7590B1" font-family="Fira Code,Consolas,monospace" font-size="12" font-weight="700">64</text>
+      </g>
+    </g>
+</svg>

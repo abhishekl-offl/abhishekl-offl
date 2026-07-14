@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence First RAG</title>
+  <desc id="desc">Evidence-gated retrieval with failure routing and citations</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B101C"/><stop offset="1" stop-color="#111C2D"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F59E0B"/><stop offset="1" stop-color="#58A6FF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#F59E0B" stop-opacity=".2"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#6D89AE" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="758" height="318" rx="22" fill="url(#bg)" stroke="#2D3D56" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="318" rx="22" fill="url(#grid)"/>
+  <circle cx="610" cy="130" r="190" fill="url(#glow)"/>
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#bar)"/>
+  <g transform="translate(36 32)">
+    <rect width="102.7" height="30" rx="15" fill="#172235" stroke="#F59E0B" stroke-opacity=".75"/>
+    <circle cx="16" cy="15" r="4" fill="#F59E0B"/>
+    <text x="28" y="20" fill="#AFC1D8" font-family="Inter,Segoe UI,sans-serif" font-size="11" font-weight="800" letter-spacing="1.25">AI SYSTEM</text>
+  </g>
+  <text x="36" y="116" fill="#F7FAFC" font-family="Inter,Segoe UI,sans-serif" font-size="38" font-weight="800">Evidence First RAG</text>
+  <text x="36" y="158" fill="#AFC0D4" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="500">Evidence-gated retrieval with</text>
+  <text x="36" y="184" fill="#7F94AF" font-family="Inter,Segoe UI,sans-serif" font-size="17">failure routing and citations</text>
+  <rect x="36" y="251" width="70" height="30" rx="15" fill="#151F31" stroke="#F59E0B" stroke-opacity=".55"/><text x="71" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Python</text><rect x="116" y="251" width="62" height="30" rx="15" fill="#151F31" stroke="#F59E0B" stroke-opacity=".55"/><text x="147" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">BM25</text><rect x="188" y="251" width="62" height="30" rx="15" fill="#151F31" stroke="#F59E0B" stroke-opacity=".55"/><text x="219" y="271" text-anchor="middle" fill="#AFC0D6" font-family="Fira Code,Consolas,monospace" font-size="11" font-weight="700">Evals</text>
+  
+    <g transform="translate(410 98) scale(.92)">
+      <rect x="0" y="32" width="76" height="58" rx="13" fill="#121C2D" stroke="#334763" stroke-width="2"/><text x="38" y="66" text-anchor="middle" fill="#D7E3F2" font-family="Fira Code,Consolas,monospace" font-size="10" font-weight="700">QUERY</text><path d="M76 61H88" stroke="#526985" stroke-width="2"/><path d="M84 56L90 61L84 66" fill="none" stroke="#526985" stroke-width="2"/><rect x="92" y="32" width="76" height="58" rx="13" fill="#121C2D" stroke="#334763" stroke-width="2"/><text x="130" y="66" text-anchor="middle" fill="#D7E3F2" font-family="Fira Code,Consolas,monospace" font-size="10" font-weight="700">BM25</text><path d="M168 61H180" stroke="#526985" stroke-width="2"/><path d="M176 56L182 61L176 66" fill="none" stroke="#526985" stroke-width="2"/><rect x="184" y="32" width="76" height="58" rx="13" fill="#121C2D" stroke="#F59E0B" stroke-width="2"/><text x="222" y="66" text-anchor="middle" fill="#D7E3F2" font-family="Fira Code,Consolas,monospace" font-size="10" font-weight="700">EVIDENCE</text><path d="M260 61H272" stroke="#526985" stroke-width="2"/><path d="M268 56L274 61L268 66" fill="none" stroke="#526985" stroke-width="2"/><rect x="276" y="32" width="76" height="58" rx="13" fill="#121C2D" stroke="#58A6FF" stroke-width="2"/><text x="314" y="66" text-anchor="middle" fill="#D7E3F2" font-family="Fira Code,Consolas,monospace" font-size="10" font-weight="700">ANSWER</text>
+      <path d="M222 118L235 130L258 105" fill="none" stroke="#F59E0B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="242" y="151" text-anchor="middle" fill="#8CA0BA" font-family="Inter,Segoe UI,sans-serif" font-size="12">claim-level citations</text>
+    </g>
+</svg>

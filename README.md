@@ -1,9 +1,7 @@
 <p align="center">
-  <a href="https://x.com/abhishekl_offl"><img src="https://img.shields.io/badge/X-@abhishekl__offl-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/abhishekl-2000/"><img src="https://img.shields.io/badge/LinkedIn-Abhishek_Loganathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://abhishekhq.substack.com/"><img src="https://img.shields.io/badge/Substack-Abhishek_HQ-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
   <a href="mailto:abhishekl.offl@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abhishekl-offl&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">

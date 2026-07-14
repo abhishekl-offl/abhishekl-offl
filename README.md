@@ -20,7 +20,7 @@ abhishek:
 
 ---
 
-## 🚀 Products & Systems
+## Highlights
 
 <table>
   <tr>

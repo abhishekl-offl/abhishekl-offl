@@ -9,11 +9,12 @@
 </p>
 
 ```yaml
-abhishek:
-  location: "Bengaluru, India"
-  education: "IIM Ahmedabad, NIT Trichy"
-  building: "AI products, developer tools, and useful systems"
+const abhishek = {
+  location: "Bengaluru, India",
+  education: ["IIM Ahmedabad", "NIT Trichy"],
+  building: ["AI products", "developer tools", "and useful systems"],
   interested_in: ["AI", "product", "distribution", "system design"]
+};
 ```
 
 ---

@@ -42,17 +42,6 @@ abhishek:
   <img src="https://img.shields.io/badge/Context_Engineering-334155?style=flat-square&logo=obsidian&logoColor=white" alt="Context engineering" />
 </p>
 
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-6-58A6FF?style=for-the-badge&labelColor=30363D" alt="Six public projects" />
-  <img src="https://img.shields.io/badge/CISCO_SWE-2_YEARS-7C3AED?style=for-the-badge&labelColor=30363D" alt="Two years as a Cisco software engineer" />
-  <img src="https://img.shields.io/badge/NEXUS_DEVICES-4M%2B-2EA043?style=for-the-badge&labelColor=30363D" alt="Nexus features across more than four million devices" />
-  <img src="https://img.shields.io/badge/TESTS_AUTOMATED-6.3K%2B-F97316?style=for-the-badge&labelColor=30363D" alt="More than 6300 tests automated" />
-  <img src="https://img.shields.io/badge/TECH_WINS-4-D29922?style=for-the-badge&labelColor=30363D" alt="Four technology wins and fellowships" />
-</p>
 
 ---
 
@@ -117,6 +106,19 @@ abhishek:
     </td>
   </tr>
 </table>
+
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-6-58A6FF?style=for-the-badge&labelColor=30363D" alt="Six public projects" />
+  <img src="https://img.shields.io/badge/CISCO_SWE-2_YEARS-7C3AED?style=for-the-badge&labelColor=30363D" alt="Two years as a Cisco software engineer" />
+  <img src="https://img.shields.io/badge/NEXUS_DEVICES-4M%2B-2EA043?style=for-the-badge&labelColor=30363D" alt="Nexus features across more than four million devices" />
+  <img src="https://img.shields.io/badge/TESTS_AUTOMATED-6.3K%2B-F97316?style=for-the-badge&labelColor=30363D" alt="More than 6300 tests automated" />
+  <img src="https://img.shields.io/badge/TECH_WINS-4-D29922?style=for-the-badge&labelColor=30363D" alt="Four technology wins and fellowships" />
+</p>
 
 ---
 

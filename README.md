@@ -18,6 +18,44 @@ abhishek:
 
 ---
 
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white" alt="Convex" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=flat-square&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square&logo=readthedocs&logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/BM25-0F766E?style=flat-square&logo=elasticsearch&logoColor=white" alt="BM25" />
+  <img src="https://img.shields.io/badge/LLM_Evals-C026D3?style=flat-square&logo=checkmarx&logoColor=white" alt="LLM evaluations" />
+  <img src="https://img.shields.io/badge/Context_Engineering-334155?style=flat-square&logo=obsidian&logoColor=white" alt="Context engineering" />
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-6-58A6FF?style=for-the-badge&labelColor=30363D" alt="Six public projects" />
+  <img src="https://img.shields.io/badge/CISCO_SWE-2_YEARS-7C3AED?style=for-the-badge&labelColor=30363D" alt="Two years as a Cisco software engineer" />
+  <img src="https://img.shields.io/badge/NEXUS_DEVICES-4M%2B-2EA043?style=for-the-badge&labelColor=30363D" alt="Nexus features across more than four million devices" />
+  <img src="https://img.shields.io/badge/TESTS_AUTOMATED-6.3K%2B-F97316?style=for-the-badge&labelColor=30363D" alt="More than 6300 tests automated" />
+  <img src="https://img.shields.io/badge/TECH_WINS-4-D29922?style=for-the-badge&labelColor=30363D" alt="Four technology wins and fellowships" />
+</p>
+
+---
+
 ## Highlights
 
 <table>
@@ -79,44 +117,6 @@ abhishek:
     </td>
   </tr>
 </table>
-
----
-
-## 🛠️ Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
-  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white" alt="Convex" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-  <img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=flat-square&logo=probot&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square&logo=readthedocs&logoColor=white" alt="Retrieval-Augmented Generation" />
-  <img src="https://img.shields.io/badge/BM25-0F766E?style=flat-square&logo=elasticsearch&logoColor=white" alt="BM25" />
-  <img src="https://img.shields.io/badge/LLM_Evals-C026D3?style=flat-square&logo=checkmarx&logoColor=white" alt="LLM evaluations" />
-  <img src="https://img.shields.io/badge/Context_Engineering-334155?style=flat-square&logo=obsidian&logoColor=white" alt="Context engineering" />
-</p>
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-6-58A6FF?style=for-the-badge&labelColor=30363D" alt="Six public projects" />
-  <img src="https://img.shields.io/badge/CISCO_SWE-2_YEARS-7C3AED?style=for-the-badge&labelColor=30363D" alt="Two years as a Cisco software engineer" />
-  <img src="https://img.shields.io/badge/NEXUS_DEVICES-4M%2B-2EA043?style=for-the-badge&labelColor=30363D" alt="Nexus features across more than four million devices" />
-  <img src="https://img.shields.io/badge/TESTS_AUTOMATED-6.3K%2B-F97316?style=for-the-badge&labelColor=30363D" alt="More than 6300 tests automated" />
-  <img src="https://img.shields.io/badge/TECH_WINS-4-D29922?style=for-the-badge&labelColor=30363D" alt="Four technology wins and fellowships" />
-</p>
 
 ---
 

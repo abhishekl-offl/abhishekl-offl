@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Abhishek Loganathan - AI builder who likes to build and market things" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://x.com/abhishekl_offl"><img src="https://img.shields.io/badge/X-@abhishekl__offl-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/abhishekl-2000/"><img src="https://img.shields.io/badge/LinkedIn-Abhishek_Loganathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://abhishekhq.substack.com/"><img src="https://img.shields.io/badge/Substack-Abhishek_HQ-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
@@ -29,36 +25,30 @@ abhishek:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/abhishekl-offl/syndicate-ai"><img src="./assets/projects/syndicate-ai.svg" alt="Syndicate AI" width="100%" /></a>
       <p><strong><a href="https://github.com/abhishekl-offl/syndicate-ai">Syndicate AI</a></strong><br />A live AI war room where five specialist operators pressure-test systems and agentic workflows.</p>
       <p><a href="https://syndicate-ai.vercel.app">Live product</a> · React · TypeScript · Convex · Claude</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/abhishekl-offl/primer-ai"><img src="./assets/projects/primer-ai.svg" alt="Primer AI" width="100%" /></a>
       <p><strong><a href="https://github.com/abhishekl-offl/primer-ai">Primer AI</a></strong><br />Highlight a company on any webpage and receive an instant, sourced business-intelligence brief.</p>
       <p>Public beta · React · WXT · Cloudflare Workers</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/abhishekl-offl/signal-desk"><img src="./assets/projects/signal-desk.svg" alt="Signal Desk" width="100%" /></a>
       <p><strong><a href="https://github.com/abhishekl-offl/signal-desk">Signal Desk</a></strong><br />A personal technology news desk with explainable relevance ranking across HN, Techmeme, and X.</p>
       <p>Next.js · TypeScript · Cloudflare Workers · Drizzle</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/abhishekl-offl/evidence-first-rag"><img src="./assets/projects/evidence-first-rag.svg" alt="Evidence First RAG" width="100%" /></a>
       <p><strong><a href="https://github.com/abhishekl-offl/evidence-first-rag">Evidence First RAG</a></strong><br />An evidence-gated retrieval scaffold with contextual BM25, failure routing, and claim-level citations.</p>
       <p>Python · RAG · BM25 · Evaluation</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/abhishekl-offl/eval-driven-messaging"><img src="./assets/projects/eval-driven-messaging.svg" alt="Eval-Driven Messaging" width="100%" /></a>
       <p><strong><a href="https://github.com/abhishekl-offl/eval-driven-messaging">Eval-Driven Messaging</a></strong><br />An offline-first evaluation harness for testing short-form product messaging against fixed and holdout cases.</p>
       <p>Python · LLM evals · Deterministic graders · Anthropic</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/abhishekl-offl/workspace-as-context"><img src="./assets/projects/workspace-as-context.svg" alt="Workspace as Context" width="100%" /></a>
       <p><strong><a href="https://github.com/abhishekl-offl/workspace-as-context">Workspace as Context</a></strong><br />A plain-text architecture that helps humans and AI agents preserve context and retrieve knowledge cheaply.</p>
       <p>Python · Markdown · Obsidian · Context engineering</p>
     </td>

@@ -134,14 +134,12 @@ abhishek:
 
 | | Highlight |
 |:--:|---|
-| 🏆 | **Global Winner, MIT Bitcoin Expo Hackathon 2021** · Awarded a $2,500 prize |
+| 🏆 | **Global Winner, MIT Bitcoin Expo Hackathon 2021** |
 | ⚡ | **Winner, ETHIndia Hackathon 2021** |
 | 🏔️ | **Winner, Hack the Mountains 2.0** |
-| ◎ | **Solana India Fellow** · 1 of 20 selected from 2,000+ applicants · $2,500 stipend |
-| 🌐 | Shipped Cisco Nexus networking features used across **4M+ devices** |
-| 🧪 | Automated **6.3K+ tests** across 2M+ Nexus switches and saved 3K+ work-hours annually |
-| 🔭 | **The VC Fellowship** · 1 of 42 selected from 1,000+ applicants |
-| 🎓 | Conducted Google DSC technical workshops and hackathons for **2K+ students** |
+| ◎ | Recipient of **Solana India Fellowship** |
+| 🌐 | SWE at Cisco, ML for Data Center Networking Products |
+| 🎓 | Member, Google Develop Student Clubs |
 
 ---
 
